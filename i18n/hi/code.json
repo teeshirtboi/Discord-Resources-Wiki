@@ -4,7 +4,7 @@
     "description": "The title of the fallback page when the page crashed"
   },
   "theme.ErrorPageContent.tryAgain": {
-    "message": "Try again",
+    "message": "फीरसे कोशिश करिए",
     "description": "The label of the button to try again when the page crashed"
   },
   "theme.NotFound.title": {
